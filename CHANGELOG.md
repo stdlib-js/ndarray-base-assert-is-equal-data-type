@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`ecde0da`](https://github.com/stdlib-js/stdlib/commit/ecde0dab6fa80df5a13632b83ef780ba46861dd8) - **chore:** fix return annotation comments and spacing _(by Philipp Burckhardt)_
 -   [`aa727fa`](https://github.com/stdlib-js/stdlib/commit/aa727fa586eed12d282eb46e49cdbd8e28e18712) - **feat:** add `ndarray/base/assert/is-equal-data-type` _(by Athan Reines)_
 
 </details>
@@ -34,9 +35,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Philipp Burckhardt
 
 </section>
 
