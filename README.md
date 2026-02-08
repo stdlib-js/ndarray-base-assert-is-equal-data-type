@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import isEqualDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-equal-data-type@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/ndarray-base-assert-is-equal-data-type/tags). For example,
+
+```javascript
 import isEqualDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-equal-data-type@v0.1.1-deno/mod.js';
 ```
 
@@ -89,7 +94,7 @@ bool = isEqualDataType( 'int32', 'int16' );
 
 ```javascript
 import DataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-dtype-ctor@deno/mod.js';
-import isEqualDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-equal-data-type@v0.1.1-deno/mod.js';
+import isEqualDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-equal-data-type@deno/mod.js';
 
 var bool = isEqualDataType( 'binary', 'binary' );
 // returns true
