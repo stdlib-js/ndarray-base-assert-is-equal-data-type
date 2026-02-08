@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isEqualDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-equal-data-type@esm/index.mjs';
+import isEqualDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-equal-data-type@v0.1.1-esm/index.mjs';
 ```
 
 #### isEqualDataType( v1, v2 )
@@ -94,7 +94,7 @@ bool = isEqualDataType( 'int32', 'int16' );
 <script type="module">
 
 import DataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-dtype-ctor@esm/index.mjs';
-import isEqualDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-equal-data-type@esm/index.mjs';
+import isEqualDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-equal-data-type@v0.1.1-esm/index.mjs';
 
 var bool = isEqualDataType( 'binary', 'binary' );
 // returns true
